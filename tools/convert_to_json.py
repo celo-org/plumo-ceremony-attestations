@@ -10,7 +10,7 @@ for line in open('README.md').readlines():
   if 'Phase' in line:
     phase_number += 1
 
-  if 'Round' in line:
+  if 'Round' in line or ('Phase' in line and phase_number >= 1):
     if round_number == 0:
       round_number += 1
       round_started = True
