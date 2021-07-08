@@ -40,6 +40,8 @@ def consume_round():
       'github': github.groups()[0] if github is not None else None,
       'gist': gist.groups()[0] if gist is not None else None,
     }
+  if len(round_dict) == 0:
+    return False
   details["phase" + str(phase_number)].append(round_dict)
   round = ''
   return True
