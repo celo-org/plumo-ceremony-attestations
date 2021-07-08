@@ -19,7 +19,7 @@
 |-----|-----------|--------|-------------|-------------|
 | 7 | 0xfc8867af28055ef109805a41893d6ab4289cd937 | Alex Vlasov | Matter Labs | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/6) |
 | 8 | 0xdb7d1ad3026b2731b178d33c178572c3e0ffc74c | Sami Mäkelä | Mäkelä Blockchain Consulting | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/3) |
-| 9 | 0x0fec1e5ecb418870d8d191bdb755b2532cf4c0a9 | Anna Rose | zKValidator |  |
+| 9 | 0x0fec1e5ecb418870d8d191bdb755b2532cf4c0a9 | Anna Rose | zKValidator | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/39) |
 | 10 | 0x5fdb0d9da995607422578541f7a1dd54ecf05943 | David Campbell | Electric Coin Company | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/5) |
 | 11 | 0xe66a7a70eefb9d8624a91689d5ff637dbf4682ab | Koh Wei Jie | Ethereum Foundation |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/8) |
 | 12 | 0x14dd027e54197c82d04398bcd79a5c323d942427 | Dev Ojha | Sikka |[Twitter](https://twitter.com/valardragon/status/1342135464808083464?s=20) [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/4) |
@@ -50,7 +50,7 @@
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 25 | 0x6af6b4d7d682e0b1038698068887485ec6e905e4 | Matt Harrop | Figment | |
+| 25 | 0x6af6b4d7d682e0b1038698068887485ec6e905e4 | Matt Harrop | Figment |[Twitter](https://twitter.com/meanderto/status/1372282848628068361) |
 | 26 | 0x5336874ad8d0d03c36eb18db73b537c0de927390 | Eddy Lazzarin | a16z |[Twitter](https://twitter.com/eddylazzarin/status/1351009586086621185) [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/19) |
 | 27 | 0xea6bd1c69eb457e006b28de00fa79415aaff0918 | ~~Justin Drake~~ cLabs | ~~Ethereum Foundation~~ | Completed by cLabs |
 | 28 | 0xd076a91dc60817bd16e34d1011cb517d41326686 | Wanseob Lim | Zkopru | [Twitter](https://twitter.com/wanseoblim/status/1350063133285519361?s=20) [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/18) |
@@ -74,7 +74,7 @@
 | 36 | 0x1792eed95b1d53992e0b6db10a90db6913bc2324 | Star. Li | Trapdoor Tech |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/23) |
 | 37 | 0xc27c1e58aa5226d1eb0ac90d8b0939e11b4b7eff | Guy Granot | Chain Reaction | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/25) |
 | 38 | 0x744a9a2c97354e2f6f4d8759ddcd67de77bb68d8 | Geoff Lamperd |  | [Twitter](https://twitter.com/glamperd/status/1354621896562630659?s=20) [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/22) |
-| 39 | 0x89f5ffdbf4ff5772174200f0b55973e084c80abc | Daniel Benarroch | QEDIT |  |
+| 39 | 0x89f5ffdbf4ff5772174200f0b55973e084c80abc | Daniel Benarroch | QEDIT | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/38) |
 | 40 | 0x58d030ba3239de2d8c4f7a0b8ad08b299ebcd971 | ~~Carlos Rienzi~~ | cLabs | Completed by cLabs |
 
 ### Round 7
@@ -99,7 +99,7 @@
 | 50 | 0x4bb89b4bee6f4c972f08da8034b3fa975c068eb6 | Petr Svenda | Masaryk University | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/31) [Twitter](https://twitter.com/rngsec/status/1361234363409694720) |
 | 51 | 0x5092a5ba0d2be745c3656587acfab04b295975b5 | Yaz Khoury | cLabs | [Twitter](https://twitter.com/Yazanator/status/1360632044267712513?s=20) |
 | 52 | 0xdf7513375928d58055e71b618762328d71d76a69 | Greg Markou | Chainsafe | [Twitter](https://twitter.com/gregthegreek/status/1360690965749653509?s=20) |
-| 53 | 0xcd693ec3a648f5e75515438b8df7ff68014eb912 | Hudson Jameson | Ethereum Foundation / Eth Cat Herders | [Twitter](https://twitter.com/hudsonjameson/status/1362591316069154818) |
+| 53 | 0xcd693ec3a648f5e75515438b8df7ff68014eb912 | Hudson Jameson | Ethereum Foundation / Eth Cat Herders |[Twitter](https://twitter.com/hudsonjameson/status/1362591316069154818)
 | 54 | 0x71a1ed24d731caf1cbbd83b10aaac9f0ef195dcb | Dusan Klinec | FI MUNI (Czechia) | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/29) [Twitter](https://twitter.com/ph4r05/status/1360642899696902149?s=20) |
 | 55 | 0xca167088a83f1ef834ff926f0289e4667246ae4f | ~~Anna Carroll~~ | cLabs | Completed by cLabs |
 
