@@ -102,3 +102,16 @@
 | 53 | 0xcd693ec3a648f5e75515438b8df7ff68014eb912 | Hudson Jameson | Ethereum Foundation / Eth Cat Herders | [Twitter](https://twitter.com/hudsonjameson/status/1362591316069154818) |
 | 54 | 0x71a1ed24d731caf1cbbd83b10aaac9f0ef195dcb | Dusan Klinec | FI MUNI (Czechia) | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/29) [Twitter](https://twitter.com/ph4r05/status/1360642899696902149?s=20) |
 | 55 | 0xca167088a83f1ef834ff926f0289e4667246ae4f | ~~Anna Carroll~~ | cLabs | Completed by cLabs |
+
+## Phase 2
+
+### Round 0
+
+|  #  |  Address  |  Name  | Affiliation | Attestation |
+|-----|-----------|--------|-------------|-------------|
+| 1 | 0x0853e301c0e4669670d6a1bb16e134a7f2178ab8  | Michael Straka | cLabs ||
+| 2 | 0xf3c12b9df3e58ae5683639ae0badfb537720deb6  | Barbara Liau | cLabs ||
+| 3 | 0x5d32478f3c55c0865239d4e55134e4338cafb4e3  | Philipp Jovanovic | University College London ||
+| 4 | 0x7252af82efe17fb17f9d22f8f8fce11228212556  | Yaz | cLabs ||
+| 5 | 0xca97ae6d16fc1476f00856c60bb0bc4e33722f2b  | James Prestwich | cLabs ||
+| 6 | 0x9eec1def5ad49b8b239015fc40444b42c282ecf3  | Hanyun | cLabs ||
