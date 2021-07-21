@@ -127,5 +127,5 @@
 | 5 | 0x9483e0be56521e0cc10d04e333789947bd7fbe1f  | Tong | cLabs ||
 | 6 | 0x15fda724cc996f49ed3f3f36f69d87054aae6ffb  | Isabelle | Valora ||
 | 7 | 0x599ca8ac22a4b79c20dcbd98564afdbc56622888  | Dag Arne Osvik |||
-| 8 | 0x02d3e1e888b378ed54a76deabe5d3cf5c192d274  | Francois Garillot | Novi ||
+| 8 | 0x02d3e1e888b378ed54a76deabe5d3cf5c192d274  | Francois Garillot | Dapper Labs ||
 
