@@ -115,3 +115,15 @@
 | 4 | 0x7252af82efe17fb17f9d22f8f8fce11228212556  | Yaz | cLabs ||
 | 5 | 0xca97ae6d16fc1476f00856c60bb0bc4e33722f2b  | James Prestwich | cLabs ||
 | 6 | 0x9eec1def5ad49b8b239015fc40444b42c282ecf3  | Hanyun | cLabs ||
+
+### Round 1
+
+|  #  |  Address  |  Name  | Affiliation | Attestation |
+|-----|-----------|--------|-------------|-------------|
+| 1 | 0xc929a9a003217c4012057c347a8d8f27c32c2d82  | Jan G |||
+| 2 | 0x133b4a890a2990f39a4c53e447f5ddebcd6337f7  | Aaron Lint | Anchorage ||
+| 3 | 0xeea137f8b924f9e34a5ea26f14417a10136fb532  | Dankrad Feist | Ethereum Foundation, Celo Labs ||
+| 4 | 0x639eaecb0ed0a9846ebb45030ddcad01ab8040a2  | mahof (wilma thomas) |||
+| 5 | 0x9483e0be56521e0cc10d04e333789947bd7fbe1f  | Tong | cLabs ||
+| 6 | 0x15fda724cc996f49ed3f3f36f69d87054aae6ffb  | Isabelle | Valora ||
+| 7 | 0x599ca8ac22a4b79c20dcbd98564afdbc56622888  | Dag Arne Osvik |||
