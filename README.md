@@ -129,3 +129,16 @@
 | 7 | 0x599ca8ac22a4b79c20dcbd98564afdbc56622888  | Dag Arne Osvik |||
 | 8 | 0x02d3e1e888b378ed54a76deabe5d3cf5c192d274  | Francois Garillot | Dapper Labs ||
 
+### Round 2
+
+|  #  |  Address  |  Name  | Affiliation | Attestation |
+|-----|-----------|--------|-------------|-------------|
+| 1 | 0xe19edfc45e2d807d2cbee745fb3f346bb498a8d3  | Anna Rose | zk Validator ||
+| 2 | 0x1d9e7bcf71fcc42a3588988ebcd5f291587e7cd5  | Ben Graves |||
+| 3 | 0xec1cdfa2b5a82a061f7e2ed9454918006973297a  | Koh Wei Jie | Ethereum Foundation ||
+| 4 | 0xaacc70e4acf869d1911851f9ee21868da6ff2ca0  | David Campbell | Electric Coin Company ||
+| 5 | 0x9a41a0fbe15e12ad6a4ea6d8bc31cf5a48420f0e  | Susannah | ZkValidator ||
+| 6 | 0x8afe6395744f8bcc61567c5aa6fad8e4114d5803  | Dev Ojha | Osmosis ||
+| 7 | 0x1961b0901f6f3b10a70bbf4527483e4dff1bea84  | tux | NuCypher ||
+| 8 | 0x3a8abb85c2fc8704056428665643975fbe3e42d5  | Brecht Devos | Loopring ||
+
