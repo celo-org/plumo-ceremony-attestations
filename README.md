@@ -137,8 +137,7 @@
 | 2 | 0x1d9e7bcf71fcc42a3588988ebcd5f291587e7cd5  | Ben Graves |||
 | 3 | 0xec1cdfa2b5a82a061f7e2ed9454918006973297a  | Koh Wei Jie | Ethereum Foundation ||
 | 4 | 0xaacc70e4acf869d1911851f9ee21868da6ff2ca0  | David Campbell | Electric Coin Company ||
-| 5 | 0x9a41a0fbe15e12ad6a4ea6d8bc31cf5a48420f0e  | Susannah | ZkValidator ||
-| 6 | 0x8afe6395744f8bcc61567c5aa6fad8e4114d5803  | Dev Ojha | Osmosis ||
-| 7 | 0x1961b0901f6f3b10a70bbf4527483e4dff1bea84  | tux | NuCypher ||
-| 8 | 0x3a8abb85c2fc8704056428665643975fbe3e42d5  | Brecht Devos | Loopring ||
+| 5 | 0x8afe6395744f8bcc61567c5aa6fad8e4114d5803  | Dev Ojha | Osmosis ||
+| 6 | 0x1961b0901f6f3b10a70bbf4527483e4dff1bea84  | tux | NuCypher ||
+| 7 | 0x3a8abb85c2fc8704056428665643975fbe3e42d5  | Brecht Devos | Loopring ||
 
