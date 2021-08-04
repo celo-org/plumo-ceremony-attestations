@@ -150,9 +150,8 @@
 | 3 | 0x877850b80e696a271872bed01523827ed9979f97 | Lora Friedenthal | ||
 | 4 | 0x76c2e16b9148c12e25d8e8f3bc2dc64ef119bdc3 | Paolo Marin |  ||
 | 5 | 0x2ab39b90b852bf3fc2dadc512fe4ba452609992f | Praveen Inaganti | ||
-| 6 | 0x9e8d493dc9f22b1593cfcf861d689e5685a555cd | KunXian Xia | Trapdoor Tech  ||
-| 7 | 0x375abfb029ac6b197e4eea15949bafc91b1157ff | Andrew Paulicek | Agile Ventures  ||
-| 8 | 0x525b7611764ee5c44da8ea3d4a38c7f2a61c6299 | Susannah  | ZkValidator | |
+| 6 | 0x375abfb029ac6b197e4eea15949bafc91b1157ff | Andrew Paulicek | Agile Ventures  ||
+| 7 | 0x525b7611764ee5c44da8ea3d4a38c7f2a61c6299 | Susannah  | ZkValidator | |
 
 
 
