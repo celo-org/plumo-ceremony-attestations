@@ -141,3 +141,24 @@
 | 6 | 0x1961b0901f6f3b10a70bbf4527483e4dff1bea84  | tux | NuCypher ||
 | 7 | 0x3a8abb85c2fc8704056428665643975fbe3e42d5  | Brecht Devos | Loopring ||
 
+### Round 3
+
+|  #  |  Address  |  Name  | Affiliation | Attestation |
+|-----|-----------|--------|-------------|-------------|
+| 1 | 0x309cb840bb36a7c91fdc8b74f7cdccd303cf1740 | Danny Willems | BaDaaS  ||
+| 2 | 0xd78289e3a63ce12ac1f9a1a809dc99e962b351e1 | Keefer Taylor | Tesselated Geometry  ||
+| 3 | 0x877850b80e696a271872bed01523827ed9979f97 | Lora Friedenthal | ||
+| 4 | 0x76c2e16b9148c12e25d8e8f3bc2dc64ef119bdc3 | Paolo Marin |  ||
+| 5 | 0x80c3e620929257778aa82ecf0d7cdbe96c45e200 | Praveen Inaganti | ||
+| 6 | 0x9e8d493dc9f22b1593cfcf861d689e5685a555cd | KunXian Xia | Trapdoor Tech  ||
+| 7 | 0x375abfb029ac6b197e4eea15949bafc91b1157ff | Andrew Paulicek | Agile Ventures  ||
+| 8 | 0x525b7611764ee5c44da8ea3d4a38c7f2a61c6299 | Susannah  | ZkValidator | |
+
+
+
+
+
+
+
+
+
