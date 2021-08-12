@@ -153,10 +153,17 @@
 | 6 | 0x375abfb029ac6b197e4eea15949bafc91b1157ff | Andrew Paulicek | Agile Ventures  ||
 | 7 | 0x525b7611764ee5c44da8ea3d4a38c7f2a61c6299 | Susannah  | ZkValidator | |
 
+### Round 4
 
-
-
-
+|  #  |  Address  |  Name  | Affiliation | Attestation |
+|-----|-----------|--------|-------------|-------------|
+| 1 | 0x88fa1e36ebe49e6777b3845d3b599a5be7727923 | Vijaya Kumar Natra ||||
+| 2 | 0x7d56e435af698cd66eb3e0ec379c482443406e65 | Christopher Goes ||||
+| 3 | 0xc8986c338b1fa57776a99c40acf498cf110be997 | pk ||||
+| 4 | 0x91a2519ee33ea9cdfbd92f278c22726f201fc0ee | Alex Vlasov | Matter Labs |||
+| 5 | 0x4dc9689f3f07864fe8925314c1a55201d64833ad | Jack Grigg | Electric Coin Company |||
+| 6 | 0x4434fa62d23c0e6084691e5e2989106de79232f5 | Alex Pruden | Aleo Systems Inc. |||
+| 7 | 0x2028c5b6ab1158ef7f47328e8a2c30e9e3f3c9cb | Conner | cLabs |||
 
 
 
