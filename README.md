@@ -164,6 +164,23 @@
 | 5 | 0x4434fa62d23c0e6084691e5e2989106de79232f5 | Alex Pruden | Aleo Systems Inc. |||
 | 6 | 0x2028c5b6ab1158ef7f47328e8a2c30e9e3f3c9cb | Conner | cLabs |||
 
+### Round 5
+
+|  #  |  Address  |  Name  | Affiliation | Attestation |
+|-----|-----------|--------|-------------|-------------|
+| 1 | Guy Granot | 0xe319844b48a1779d2cf3a1a58218543ecebadc2a | Chain Reaction ||||
+| 2 | Daniel Benarroch | 0x4234531b6bec2ba918fd7b68b164b73cfd33446d | QEDIT ||||
+| 3 | Power_VANO | 0x809483e27ca1acfb18c5b2a983c9b11468ae9498 |Horizen, Overclockers GE ||||
+| 4 | Brandy Camacho | 0x432cf1fb3ebf8705193fa559373129c029349aac | cLabs ||||
+| 5 | kevaundray | 0xb5391f3107d6188ba814860413abeaa2d9c221ae |||||
+| 6 | Jordi Baylina | 0x0706113ea00971a752d0cf768983487477544b86 | Iden3 / Hermez ||||
+
+
+
+
+
+
+
 
 
 
