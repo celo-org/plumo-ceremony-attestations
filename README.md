@@ -168,12 +168,12 @@
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 1 | Guy Granot | 0xe319844b48a1779d2cf3a1a58218543ecebadc2a | Chain Reaction ||||
-| 2 | Daniel Benarroch | 0x4234531b6bec2ba918fd7b68b164b73cfd33446d | QEDIT ||||
-| 3 | Power_VANO | 0x809483e27ca1acfb18c5b2a983c9b11468ae9498 |Horizen, Overclockers GE ||||
-| 4 | Brandy Camacho | 0x432cf1fb3ebf8705193fa559373129c029349aac | cLabs ||||
-| 5 | kevaundray | 0xb5391f3107d6188ba814860413abeaa2d9c221ae |||||
-| 6 | Jordi Baylina | 0x0706113ea00971a752d0cf768983487477544b86 | Iden3 / Hermez ||||
+| 1 | 0xe319844b48a1779d2cf3a1a58218543ecebadc2a | Guy Granot | Chain Reaction ||||
+| 2 | 0x4234531b6bec2ba918fd7b68b164b73cfd33446d | Daniel Benarroch | QEDIT ||||
+| 3 | 0x809483e27ca1acfb18c5b2a983c9b11468ae9498 | Power_VANO |Horizen, Overclockers GE ||||
+| 4 | 0x432cf1fb3ebf8705193fa559373129c029349aac | Brandy Camacho | cLabs ||||
+| 5 | 0xb5391f3107d6188ba814860413abeaa2d9c221ae | kevaundray |||||
+| 6 | 0x0706113ea00971a752d0cf768983487477544b86 | Jordi Baylina | Iden3 / Hermez ||||
 
 
 
