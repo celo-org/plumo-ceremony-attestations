@@ -42,7 +42,7 @@
 |-----|-----------|--------|-------------|-------------|
 | 20 | 0xb48a179f63d266516a59c2cf2e3da201d7845fd9 | Thore Hildebrandt |  | [Twitter](https://twitter.com/hildebrandtthor/status/1347558659920900099) |
 | 21 | 0xfa2caa1d421596ec7a8cf1fa8408001d57d5081f | Dankrad Feist | Ethereum Foundation | [Twitter](https://twitter.com/dankrad/status/1347653186308497409) |
-| 22 | 0x4a905a7d08669a167a2f6b9b9935ee202849d635 | Francois Garillot | Novi | [Twitter](https://twitter.com/huitseeker/status/1347247753928306690) [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/14) [Gist](https://gist.github.com/huitseeker/562f1e67dcc96df54bf519e25177fdcc) |
+| 22 | 0x4a905a7d08669a167a2f6b9b9935ee202849d635 | François Garillot || [Twitter](https://twitter.com/huitseeker/status/1347247753928306690) [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/14) [Gist](https://gist.github.com/huitseeker/562f1e67dcc96df54bf519e25177fdcc) |
 | 23 | 0x9d99eb6e3240e4ab579f7b12b50ff742b07a400f | pk |  | [Twitter](https://twitter.com/w3mone/status/1347353066916302850?s=20) [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/15) [Gist](https://gist.github.com/pkrasam/8cf5c5632593c9c5719f6e52dacc760e#file-plumo-attestation) [Keybase](keybase://public/pkrasam/celo/plumo/phase-1/plumo.attestation) |
 | 24 | 0xba1c6958680d5fc1d4cf9cb1395f8a8098bd7bba | Dag Arne Osvik |  | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/16) |
 
@@ -109,49 +109,49 @@
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 1 | 0x0853e301c0e4669670d6a1bb16e134a7f2178ab8  | Michael Straka | cLabs ||
+| 1 | 0x0853e301c0e4669670d6a1bb16e134a7f2178ab8  | Michael Straka | cLabs |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/42) [Twitter](https://twitter.com/mstrakastrak/status/1415101409947648000?s=20)|
 | 2 | 0xf3c12b9df3e58ae5683639ae0badfb537720deb6  | Barbara Liau | cLabs ||
-| 3 | 0x5d32478f3c55c0865239d4e55134e4338cafb4e3  | Philipp Jovanovic | University College London ||
-| 4 | 0x7252af82efe17fb17f9d22f8f8fce11228212556  | Yaz | cLabs ||
+| 3 | 0x5d32478f3c55c0865239d4e55134e4338cafb4e3  | Philipp Jovanovic | University College London |[Twitter](https://twitter.com/Daeinar/status/1415592649445285889?s=20)|
+| 4 | 0x7252af82efe17fb17f9d22f8f8fce11228212556  | Yaz | cLabs |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/41)|
 | 5 | 0xca97ae6d16fc1476f00856c60bb0bc4e33722f2b  | James Prestwich | cLabs ||
-| 6 | 0x9eec1def5ad49b8b239015fc40444b42c282ecf3  | Hanyun | cLabs ||
+| 6 | 0x9eec1def5ad49b8b239015fc40444b42c282ecf3  | Hanyun | cLabs |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/43) [Twitter](https://twitter.com/_hanyunx/status/1415682648295415809)|
 
 ### Round 1
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 1 | 0xc929a9a003217c4012057c347a8d8f27c32c2d82  | Jan G |||
+| 1 | 0xc929a9a003217c4012057c347a8d8f27c32c2d82  | Jan G ||[Gist](https://gist.github.com/wavedashprime/6fcabfebe19c1d147e7202cedd6c6530)|
 | 2 | 0x133b4a890a2990f39a4c53e447f5ddebcd6337f7  | Aaron Lint | Anchorage ||
 | 3 | 0xeea137f8b924f9e34a5ea26f14417a10136fb532  | Dankrad Feist | Ethereum Foundation, Celo Labs ||
-| 4 | 0x639eaecb0ed0a9846ebb45030ddcad01ab8040a2  | mahof (wilma thomas) |||
-| 5 | 0x9483e0be56521e0cc10d04e333789947bd7fbe1f  | Tong | cLabs ||
+| 4 | 0x639eaecb0ed0a9846ebb45030ddcad01ab8040a2  | mahof (wilma thomas) ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/44)|
+| 5 | 0x9483e0be56521e0cc10d04e333789947bd7fbe1f  | Tong | cLabs |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/45)|
 | 6 | 0x15fda724cc996f49ed3f3f36f69d87054aae6ffb  | Isabelle | Valora ||
-| 7 | 0x599ca8ac22a4b79c20dcbd98564afdbc56622888  | Dag Arne Osvik |||
-| 8 | 0x02d3e1e888b378ed54a76deabe5d3cf5c192d274  | Francois Garillot | Dapper Labs ||
+| 7 | 0x599ca8ac22a4b79c20dcbd98564afdbc56622888  | Dag Arne Osvik ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/46)|
+| 8 | 0x02d3e1e888b378ed54a76deabe5d3cf5c192d274  | François Garillot ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/47) [Twitter](https://twitter.com/huitseeker/status/1419064565799731201) [Gist](https://gist.github.com/huitseeker/0a780f9c364d23be42c74835c48ba48d)|
 
 ### Round 2
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 1 | 0xe19edfc45e2d807d2cbee745fb3f346bb498a8d3  | Anna Rose | zk Validator ||
-| 2 | 0x1d9e7bcf71fcc42a3588988ebcd5f291587e7cd5  | Ben Graves |||
-| 3 | 0xec1cdfa2b5a82a061f7e2ed9454918006973297a  | Koh Wei Jie | Ethereum Foundation ||
-| 4 | 0xaacc70e4acf869d1911851f9ee21868da6ff2ca0  | David Campbell | Electric Coin Company ||
-| 5 | 0x8afe6395744f8bcc61567c5aa6fad8e4114d5803  | Dev Ojha | Osmosis ||
+| 1 | 0xe19edfc45e2d807d2cbee745fb3f346bb498a8d3  | Anna Rose | zk Validator |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/53) [Twitter](https://twitter.com/AnnaRRose/status/1421741358235193347?s=20)|
+| 2 | 0x1d9e7bcf71fcc42a3588988ebcd5f291587e7cd5  | Ben Graves ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/52)|
+| 3 | 0xec1cdfa2b5a82a061f7e2ed9454918006973297a  | Koh Wei Jie | Ethereum Foundation |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/49) [Gist](https://gist.github.com/weijiekoh/b48ba7aa3982f6b4a2274f3bbcf11f85#file-plumo-attestation-txt)|
+| 4 | 0xaacc70e4acf869d1911851f9ee21868da6ff2ca0  | David Campbell | Electric Coin Company |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/51) [Twitter](https://twitter.com/alchemyDC/status/1421279788862513157?s=20)|
+| 5 | 0x8afe6395744f8bcc61567c5aa6fad8e4114d5803  | Dev Ojha | Osmosis |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/48) [Twitter](https://twitter.com/valardragon/status/1420832646138109966?s=20)|
 | 6 | 0x1961b0901f6f3b10a70bbf4527483e4dff1bea84  | tux | NuCypher ||
-| 7 | 0x3a8abb85c2fc8704056428665643975fbe3e42d5  | Brecht Devos | Loopring ||
+| 7 | 0x3a8abb85c2fc8704056428665643975fbe3e42d5  | Brecht Devos | Loopring |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/50) [Twitter](https://twitter.com/Brechtpd/status/1421128569791602692)|
 
 ### Round 3
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
 | 1 | 0x309cb840bb36a7c91fdc8b74f7cdccd303cf1740 | Danny Willems | BaDaaS  ||
-| 2 | 0xd78289e3a63ce12ac1f9a1a809dc99e962b351e1 | Keefer Taylor | Tesselated Geometry  ||
-| 3 | 0x877850b80e696a271872bed01523827ed9979f97 | Lora Friedenthal | ||
-| 4 | 0x76c2e16b9148c12e25d8e8f3bc2dc64ef119bdc3 | Paolo Marin |  ||
-| 5 | 0x2ab39b90b852bf3fc2dadc512fe4ba452609992f | Praveen Inaganti | ||
-| 6 | 0x375abfb029ac6b197e4eea15949bafc91b1157ff | Andrew Paulicek | Agile Ventures  ||
-| 7 | 0x525b7611764ee5c44da8ea3d4a38c7f2a61c6299 | Susannah  | ZkValidator | |
+| 2 | 0xd78289e3a63ce12ac1f9a1a809dc99e962b351e1 | Keefer Taylor | Tesselated Geometry  |[Twitter](https://twitter.com/tessellatedgeo/status/1423571366184329217?s=20)|
+| 3 | 0x877850b80e696a271872bed01523827ed9979f97 | Lora Friedenthal | |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/57) [Twitter](https://twitter.com/darkmagess/status/1423640860575555592)|
+| 4 | 0x76c2e16b9148c12e25d8e8f3bc2dc64ef119bdc3 | Paolo Marin ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/56)|
+| 5 | 0x2ab39b90b852bf3fc2dadc512fe4ba452609992f | Praveen Inaganti | |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/54)|
+| 6 | 0x375abfb029ac6b197e4eea15949bafc91b1157ff | Andrew Paulicek | HappyCelo |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/58)|
+| 7 | 0x525b7611764ee5c44da8ea3d4a38c7f2a61c6299 | Susannah | ZkValidator | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/55)|
 
 ### Round 4
 
