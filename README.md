@@ -120,67 +120,76 @@
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 1 | 0xc929a9a003217c4012057c347a8d8f27c32c2d82  | Jan G ||[Gist](https://gist.github.com/wavedashprime/6fcabfebe19c1d147e7202cedd6c6530)|
-| 2 | 0x133b4a890a2990f39a4c53e447f5ddebcd6337f7  | Aaron Lint | Anchorage ||
-| 3 | 0xeea137f8b924f9e34a5ea26f14417a10136fb532  | Dankrad Feist | Ethereum Foundation, Celo Labs ||
-| 4 | 0x639eaecb0ed0a9846ebb45030ddcad01ab8040a2  | mahof (wilma thomas) ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/44)|
-| 5 | 0x9483e0be56521e0cc10d04e333789947bd7fbe1f  | Tong | cLabs |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/45)|
-| 6 | 0x15fda724cc996f49ed3f3f36f69d87054aae6ffb  | Isabelle | Valora ||
-| 7 | 0x599ca8ac22a4b79c20dcbd98564afdbc56622888  | Dag Arne Osvik ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/46)|
-| 8 | 0x02d3e1e888b378ed54a76deabe5d3cf5c192d274  | François Garillot ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/47) [Twitter](https://twitter.com/huitseeker/status/1419064565799731201) [Gist](https://gist.github.com/huitseeker/0a780f9c364d23be42c74835c48ba48d)|
+| 7 | 0xc929a9a003217c4012057c347a8d8f27c32c2d82  | Jan G ||[Gist](https://gist.github.com/wavedashprime/6fcabfebe19c1d147e7202cedd6c6530)|
+| 8 | 0x133b4a890a2990f39a4c53e447f5ddebcd6337f7  | Aaron Lint | Anchorage ||
+| 9 | 0xeea137f8b924f9e34a5ea26f14417a10136fb532  | Dankrad Feist | Ethereum Foundation, Celo Labs ||
+| 10 | 0x639eaecb0ed0a9846ebb45030ddcad01ab8040a2  | mahof (wilma thomas) ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/44)|
+| 11 | 0x9483e0be56521e0cc10d04e333789947bd7fbe1f  | Tong | cLabs |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/45)|
+| 12 | 0x15fda724cc996f49ed3f3f36f69d87054aae6ffb  | Isabelle | Valora ||
+| 13 | 0x599ca8ac22a4b79c20dcbd98564afdbc56622888  | Dag Arne Osvik ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/46)|
+| 14 | 0x02d3e1e888b378ed54a76deabe5d3cf5c192d274  | François Garillot ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/47) [Twitter](https://twitter.com/huitseeker/status/1419064565799731201) [Gist](https://gist.github.com/huitseeker/0a780f9c364d23be42c74835c48ba48d)|
 
 ### Round 2
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 1 | 0xe19edfc45e2d807d2cbee745fb3f346bb498a8d3  | Anna Rose | zk Validator |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/53) [Twitter](https://twitter.com/AnnaRRose/status/1421741358235193347?s=20)|
-| 2 | 0x1d9e7bcf71fcc42a3588988ebcd5f291587e7cd5  | Ben Graves ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/52)|
-| 3 | 0xec1cdfa2b5a82a061f7e2ed9454918006973297a  | Koh Wei Jie | Ethereum Foundation |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/49) [Gist](https://gist.github.com/weijiekoh/b48ba7aa3982f6b4a2274f3bbcf11f85#file-plumo-attestation-txt)|
-| 4 | 0xaacc70e4acf869d1911851f9ee21868da6ff2ca0  | David Campbell | Electric Coin Company |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/51) [Twitter](https://twitter.com/alchemyDC/status/1421279788862513157?s=20)|
-| 5 | 0x8afe6395744f8bcc61567c5aa6fad8e4114d5803  | Dev Ojha | Osmosis |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/48) [Twitter](https://twitter.com/valardragon/status/1420832646138109966?s=20)|
-| 6 | 0x1961b0901f6f3b10a70bbf4527483e4dff1bea84  | tux | NuCypher ||
-| 7 | 0x3a8abb85c2fc8704056428665643975fbe3e42d5  | Brecht Devos | Loopring |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/50) [Twitter](https://twitter.com/Brechtpd/status/1421128569791602692)|
+| 15 | 0xe19edfc45e2d807d2cbee745fb3f346bb498a8d3  | Anna Rose | zk Validator |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/53) [Twitter](https://twitter.com/AnnaRRose/status/1421741358235193347?s=20)|
+| 16 | 0x1d9e7bcf71fcc42a3588988ebcd5f291587e7cd5  | Ben Graves ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/52)|
+| 17 | 0xec1cdfa2b5a82a061f7e2ed9454918006973297a  | Koh Wei Jie | Ethereum Foundation |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/49) [Gist](https://gist.github.com/weijiekoh/b48ba7aa3982f6b4a2274f3bbcf11f85#file-plumo-attestation-txt)|
+| 18 | 0xaacc70e4acf869d1911851f9ee21868da6ff2ca0  | David Campbell | Electric Coin Company |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/51) [Twitter](https://twitter.com/alchemyDC/status/1421279788862513157?s=20)|
+| 19 | 0x8afe6395744f8bcc61567c5aa6fad8e4114d5803  | Dev Ojha | Osmosis |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/48) [Twitter](https://twitter.com/valardragon/status/1420832646138109966?s=20)|
+| 20 | 0x1961b0901f6f3b10a70bbf4527483e4dff1bea84  | tux | NuCypher ||
+| 21 | 0x3a8abb85c2fc8704056428665643975fbe3e42d5  | Brecht Devos | Loopring |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/50) [Twitter](https://twitter.com/Brechtpd/status/1421128569791602692)|
 
 ### Round 3
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 1 | 0x309cb840bb36a7c91fdc8b74f7cdccd303cf1740 | Danny Willems | BaDaaS  ||
-| 2 | 0xd78289e3a63ce12ac1f9a1a809dc99e962b351e1 | Keefer Taylor | Tesselated Geometry  |[Twitter](https://twitter.com/tessellatedgeo/status/1423571366184329217?s=20)|
-| 3 | 0x877850b80e696a271872bed01523827ed9979f97 | Lora Friedenthal | |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/57) [Twitter](https://twitter.com/darkmagess/status/1423640860575555592)|
-| 4 | 0x76c2e16b9148c12e25d8e8f3bc2dc64ef119bdc3 | Paolo Marin ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/56)|
-| 5 | 0x2ab39b90b852bf3fc2dadc512fe4ba452609992f | Praveen Inaganti | |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/54)|
-| 6 | 0x375abfb029ac6b197e4eea15949bafc91b1157ff | Andrew Paulicek | HappyCelo |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/58)|
-| 7 | 0x525b7611764ee5c44da8ea3d4a38c7f2a61c6299 | Susannah | ZkValidator | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/55)|
+| 22 | 0x309cb840bb36a7c91fdc8b74f7cdccd303cf1740 | Danny Willems | BaDaaS  ||
+| 23 | 0xd78289e3a63ce12ac1f9a1a809dc99e962b351e1 | Keefer Taylor | Tesselated Geometry  |[Twitter](https://twitter.com/tessellatedgeo/status/1423571366184329217?s=20)|
+| 24 | 0x877850b80e696a271872bed01523827ed9979f97 | Lora Friedenthal | |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/57) [Twitter](https://twitter.com/darkmagess/status/1423640860575555592)|
+| 25 | 0x76c2e16b9148c12e25d8e8f3bc2dc64ef119bdc3 | Paolo Marin ||[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/56)|
+| 26 | 0x2ab39b90b852bf3fc2dadc512fe4ba452609992f | Praveen Inaganti | |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/54)|
+| 27 | 0x375abfb029ac6b197e4eea15949bafc91b1157ff | Andrew Paulicek | HappyCelo |[Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/58)|
+| 28 | 0x525b7611764ee5c44da8ea3d4a38c7f2a61c6299 | Susannah | ZkValidator | [Github](https://github.com/celo-org/plumo-ceremony-attestations/issues/55)|
 
 ### Round 4
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 1 | 0x7d56e435af698cd66eb3e0ec379c482443406e65 | Christopher Goes ||||
-| 2 | 0xc8986c338b1fa57776a99c40acf498cf110be997 | pk ||||
-| 3 | 0x91a2519ee33ea9cdfbd92f278c22726f201fc0ee | Alex Vlasov | Matter Labs |||
-| 4 | 0x4dc9689f3f07864fe8925314c1a55201d64833ad | Jack Grigg | Electric Coin Company |||
-| 5 | 0x4434fa62d23c0e6084691e5e2989106de79232f5 | Alex Pruden | Aleo Systems Inc. |||
-| 6 | 0x2028c5b6ab1158ef7f47328e8a2c30e9e3f3c9cb | Conner | cLabs |||
+| 29 | 0x7d56e435af698cd66eb3e0ec379c482443406e65 | Christopher Goes ||||
+| 30 | 0xc8986c338b1fa57776a99c40acf498cf110be997 | pk ||||
+| 31 | 0x91a2519ee33ea9cdfbd92f278c22726f201fc0ee | Alex Vlasov | Matter Labs |||
+| 32 | 0x4dc9689f3f07864fe8925314c1a55201d64833ad | Jack Grigg | Electric Coin Company |||
+| 33 | 0x4434fa62d23c0e6084691e5e2989106de79232f5 | Alex Pruden | Aleo Systems Inc. |||
+| 34 | 0x2028c5b6ab1158ef7f47328e8a2c30e9e3f3c9cb | Conner | cLabs |||
 
 ### Round 5
 
 |  #  |  Address  |  Name  | Affiliation | Attestation |
 |-----|-----------|--------|-------------|-------------|
-| 1 | 0xe319844b48a1779d2cf3a1a58218543ecebadc2a | Guy Granot | Chain Reaction ||||
-| 2 | 0x4234531b6bec2ba918fd7b68b164b73cfd33446d | Daniel Benarroch | QEDIT ||||
-| 3 | 0x809483e27ca1acfb18c5b2a983c9b11468ae9498 | Power_VANO |Horizen, Overclockers GE ||||
-| 4 | 0x432cf1fb3ebf8705193fa559373129c029349aac | Brandy Camacho | cLabs ||||
-| 5 | 0xb5391f3107d6188ba814860413abeaa2d9c221ae | kevaundray |||||
-| 6 | 0x0706113ea00971a752d0cf768983487477544b86 | Jordi Baylina | Iden3 / Hermez ||||
+| 35 | 0xe319844b48a1779d2cf3a1a58218543ecebadc2a | Guy Granot | Chain Reaction ||||
+| 36 | 0x4234531b6bec2ba918fd7b68b164b73cfd33446d | Daniel Benarroch | QEDIT ||||
+| 37 | 0x809483e27ca1acfb18c5b2a983c9b11468ae9498 | Power_VANO |Horizen, Overclockers GE ||||
+| 38 | 0x432cf1fb3ebf8705193fa559373129c029349aac | Brandy Camacho | cLabs ||||
+| 39 | 0xb5391f3107d6188ba814860413abeaa2d9c221ae | kevaundray |||||
+| 40 | 0x0706113ea00971a752d0cf768983487477544b86 | Jordi Baylina | Iden3 / Hermez ||||
 
+### Round 6
 
+|  #  |  Address  |  Name  | Affiliation | Attestation |
+|-----|-----------|--------|-------------|-------------|
+| 41 | 0xe2a1f254f9caddb00c4a1aa4d1dc032a1d48d7fb | Girish Nuli | Infibridge, Inc. ||||
+| 42 | 0xde1e4ac127b79ddfdec5c733b9d42d620244e5c4 | Mark Tyneway | Optimism ||||
+| 43 | 0x563c8a44dab82c968f6c197b1c5eebe0966fd768 | Lane Rettig | Spacemesh ||||
 
+### Round 7
 
-
-
-
-
-
-
+|  #  |  Address  |  Name  | Affiliation | Attestation |
+|-----|-----------|--------|-------------|-------------|
+| 44 | 0x369df5b876a37e603e87c6c2e37dd7dd0fa8021a | Gregory Rocco | Spruce Systems ||||
+| 45 | 0x02d169f8815cdec03a2e34acc11686a907cd5e4e | Dude | Self, also Reality Cards ||||
+| 46 | 0xfa9b6add7233674739982f50f4c567596bed82d6 | Arnau | ||||
+| 47 | 0x89f0f4ddacdb87cd8f51348518d86f32b260b254 | Jules de Smit | Aleo ||||
+| 48 | 0x32a45e896ee519ee13af406af7794d147676bdab | Stanislaw Baranski | Gdansk University of Technology ||||
+| 49 | 0x79d926843e26ce962f0892e959ff9322904ddba8 | Tom Walton-Pocock | ||||
