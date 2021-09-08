@@ -193,3 +193,17 @@
 | 47 | 0x89f0f4ddacdb87cd8f51348518d86f32b260b254 | Jules de Smit | Aleo ||||
 | 48 | 0x32a45e896ee519ee13af406af7794d147676bdab | Stanislaw Baranski | Gdansk University of Technology ||||
 | 49 | 0x79d926843e26ce962f0892e959ff9322904ddba8 | Tom Walton-Pocock | ||||
+
+### Round 8
+
+|  #  |  Address  |  Name  | Affiliation | Attestation |
+|-----|-----------|--------|-------------|-------------|
+| 50 | 0x278ee850666cddc5bef13c75fa1465e245d40e8f | Marc Bonenberger | LetzBake! ||||
+| 51 | 0x33d6e1fdc7153fcaafcf8b0b3af1e11a2f988f6c | Aleksey Ermishkin | Virgil Security ||||
+| 52 | 0xb0b1bda52265a87062bd9968c2a8fd9e4354e2d0 | KunXian Xia | Trapdoor Tech ||||
+| 53 | 0xec93fc57561f28dc2618aa11647628448dee1c08 | ADRIA MASSANET | Argaon ||||
+| 54 | 0x5fa341d87bc592ae3656d7e2fe9fa6afc00746c3 | Mohamed Fouda | TDLabs / Volt Capital ||||
+| 55 | 0x75563f30907ac3359d21e54fc2650b9d484c73ff | Star.LI | Trapdoor Tech ||||
+| 56 | 0xfb83aa086301f988a698d3d3fee41d4e55424e65 | Ilya | Aleo ||||
+
+
